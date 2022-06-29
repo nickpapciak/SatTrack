@@ -1,2 +1,2 @@
 # SatTrack
-WIP satellite tracker I made for fun
+Satellite Tracker from TLE made in python for fun
